@@ -1,0 +1,15 @@
+C:\Users\alumno\Documents\MiProyecto\bin\Debug\net6.0\MiProyecto.exe
+C:\Users\alumno\Documents\MiProyecto\bin\Debug\net6.0\MiProyecto.deps.json
+C:\Users\alumno\Documents\MiProyecto\bin\Debug\net6.0\MiProyecto.runtimeconfig.json
+C:\Users\alumno\Documents\MiProyecto\bin\Debug\net6.0\MiProyecto.dll
+C:\Users\alumno\Documents\MiProyecto\bin\Debug\net6.0\MiProyecto.pdb
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.AssemblyInfo.cs
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.dll
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\refint\MiProyecto.dll
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.pdb
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\MiProyecto.genruntimeconfig.cache
+C:\Users\alumno\Documents\MiProyecto\obj\Debug\net6.0\ref\MiProyecto.dll
